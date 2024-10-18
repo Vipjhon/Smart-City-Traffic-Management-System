@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pcc\\source\\repos\\TrafficManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8A9617-90E0-4E7C-B899-4174B32A5240}|TrafficManagementAPI\\TrafficManagementAPI.csproj|c:\\users\\pcc\\source\\repos\\trafficmanagementapi\\trafficmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8A9617-90E0-4E7C-B899-4174B32A5240}|TrafficManagementAPI\\TrafficManagementAPI.csproj|solutionrelative:trafficmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8A9617-90E0-4E7C-B899-4174B32A5240}|TrafficManagementAPI\\TrafficManagementAPI.csproj|c:\\users\\pcc\\source\\repos\\trafficmanagementapi\\trafficmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB8A9617-90E0-4E7C-B899-4174B32A5240}|TrafficManagementAPI\\TrafficManagementAPI.csproj|solutionrelative:trafficmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8A9617-90E0-4E7C-B899-4174B32A5240}|TrafficManagementAPI\\TrafficManagementAPI.csproj|c:\\users\\pcc\\source\\repos\\trafficmanagementapi\\trafficmanagementapi\\controllers\\trafficdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8A9617-90E0-4E7C-B899-4174B32A5240}|TrafficManagementAPI\\TrafficManagementAPI.csproj|solutionrelative:trafficmanagementapi\\controllers\\trafficdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8A9617-90E0-4E7C-B899-4174B32A5240}|TrafficManagementAPI\\TrafficManagementAPI.csproj|c:\\users\\pcc\\source\\repos\\trafficmanagementapi\\trafficmanagementapi\\migrations\\20241017133706_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8A9617-90E0-4E7C-B899-4174B32A5240}|TrafficManagementAPI\\TrafficManagementAPI.csproj|solutionrelative:trafficmanagementapi\\migrations\\20241017133706_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8A9617-90E0-4E7C-B899-4174B32A5240}|TrafficManagementAPI\\TrafficManagementAPI.csproj|c:\\users\\pcc\\source\\repos\\trafficmanagementapi\\trafficmanagementapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8A9617-90E0-4E7C-B899-4174B32A5240}|TrafficManagementAPI\\TrafficManagementAPI.csproj|solutionrelative:trafficmanagementapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8A9617-90E0-4E7C-B899-4174B32A5240}|TrafficManagementAPI\\TrafficManagementAPI.csproj|c:\\users\\pcc\\source\\repos\\trafficmanagementapi\\trafficmanagementapi\\models\\trafficdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8A9617-90E0-4E7C-B899-4174B32A5240}|TrafficManagementAPI\\TrafficManagementAPI.csproj|solutionrelative:trafficmanagementapi\\models\\trafficdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241017133706_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\pcc\\source\\repos\\TrafficManagementAPI\\TrafficManagementAPI\\Migrations\\20241017133706_InitialCreate.cs",
+              "RelativeDocumentMoniker": "TrafficManagementAPI\\Migrations\\20241017133706_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\pcc\\source\\repos\\TrafficManagementAPI\\TrafficManagementAPI\\Migrations\\20241017133706_InitialCreate.cs",
+              "RelativeToolTip": "TrafficManagementAPI\\Migrations\\20241017133706_InitialCreate.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:37:06.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrafficDataController.cs",
+              "DocumentMoniker": "C:\\Users\\pcc\\source\\repos\\TrafficManagementAPI\\TrafficManagementAPI\\Controllers\\TrafficDataController.cs",
+              "RelativeDocumentMoniker": "TrafficManagementAPI\\Controllers\\TrafficDataController.cs",
+              "ToolTip": "C:\\Users\\pcc\\source\\repos\\TrafficManagementAPI\\TrafficManagementAPI\\Controllers\\TrafficDataController.cs",
+              "RelativeToolTip": "TrafficManagementAPI\\Controllers\\TrafficDataController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:33:49.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pcc\\source\\repos\\TrafficManagementAPI\\TrafficManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TrafficManagementAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\pcc\\source\\repos\\TrafficManagementAPI\\TrafficManagementAPI\\Program.cs*",
+              "RelativeToolTip": "TrafficManagementAPI\\Program.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:32:15.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pcc\\source\\repos\\TrafficManagementAPI\\TrafficManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "TrafficManagementAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\pcc\\source\\repos\\TrafficManagementAPI\\TrafficManagementAPI\\appsettings.json",
+              "RelativeToolTip": "TrafficManagementAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T13:30:27.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pcc\\source\\repos\\TrafficManagementAPI\\TrafficManagementAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TrafficManagementAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\pcc\\source\\repos\\TrafficManagementAPI\\TrafficManagementAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TrafficManagementAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:29:54.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrafficData.cs",
+              "DocumentMoniker": "C:\\Users\\pcc\\source\\repos\\TrafficManagementAPI\\TrafficManagementAPI\\Models\\TrafficData.cs",
+              "RelativeDocumentMoniker": "TrafficManagementAPI\\Models\\TrafficData.cs",
+              "ToolTip": "C:\\Users\\pcc\\source\\repos\\TrafficManagementAPI\\TrafficManagementAPI\\Models\\TrafficData.cs",
+              "RelativeToolTip": "TrafficManagementAPI\\Models\\TrafficData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:28:49.32Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

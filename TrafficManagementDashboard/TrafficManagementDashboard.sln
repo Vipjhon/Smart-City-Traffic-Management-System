@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "TrafficManagementDashboard", "TrafficManagementDashboard\TrafficManagementDashboard.esproj", "{F3520E31-DB46-402A-B680-9BF01AEB18A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3520E31-DB46-402A-B680-9BF01AEB18A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3520E31-DB46-402A-B680-9BF01AEB18A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3520E31-DB46-402A-B680-9BF01AEB18A6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F3520E31-DB46-402A-B680-9BF01AEB18A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3520E31-DB46-402A-B680-9BF01AEB18A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3520E31-DB46-402A-B680-9BF01AEB18A6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F04A3708-FBE5-4005-8B44-010766CDBB2C}
+	EndGlobalSection
+EndGlobal

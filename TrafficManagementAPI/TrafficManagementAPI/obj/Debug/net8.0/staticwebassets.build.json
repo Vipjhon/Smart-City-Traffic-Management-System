@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nK/SevdOjhHsGCVIgUjbEsWwV8i/1wRHwJ04pVDv1/s=",
+  "Source": "TrafficManagementAPI",
+  "BasePath": "_content/TrafficManagementAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
